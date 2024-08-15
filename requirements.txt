@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+langchain-google-genai
+python-dotenv
+SpeechRecognition
+pyaudio
