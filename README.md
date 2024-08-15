@@ -2,6 +2,12 @@
 
 EmotiSense é uma aplicação que detecta emoções em textos ou falas utilizando um modelo de linguagem treinado. O projeto é desenvolvido com Streamlit e a API Google Generative AI, e inclui reconhecimento de voz para análise de emoções.
 
+## Índice
+
+- [Pré-requisitos](#pré-requisitos)
+- [Instalação](#instalação)
+- [Contribuição](#contribuição)
+
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o Python 3.7 ou superior instalado em seu sistema. Você também precisará de um arquivo `.env` com suas credenciais da API Google.
@@ -41,7 +47,7 @@ Antes de começar, certifique-se de ter o Python 3.7 ou superior instalado em se
 
     modelo utilizado: gemini-1.5-pro
 
-6. Iniciar a aplicação Streamlit com o seguinte comando:
+6. **Iniciar a aplicação Streamlit com o seguinte comando:**
 
     streamlit run main.py
     Substitua main.py pelo nome do arquivo principal do seu projeto se for diferente.
@@ -50,7 +56,7 @@ Antes de começar, certifique-se de ter o Python 3.7 ou superior instalado em se
 
     Abra o navegador e acesse http://localhost:8501 para interagir com a aplicação EmotiSense.
 
-**Contribuição**
+## Contribuição
 
 Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
 
